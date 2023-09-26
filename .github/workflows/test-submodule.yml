@@ -15,4 +15,4 @@ jobs:
 
       - name: List files
         run: |
-          ls -la
+          ls -la -R
