@@ -1,4 +1,8 @@
+[submodule "yq"]
+	path = submodules/yq
+	url = https://github.com/mikefarah/yq
+	branch = master
 [submodule "jq"]
-	path = submodules
+	path = submodules/jq
 	url = https://github.com/jqlang/jq
 	branch = master
