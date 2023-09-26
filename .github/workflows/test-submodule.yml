@@ -13,6 +13,6 @@ jobs:
         with:
           submodules: 'true'
 
-      - name: List files
+      - name: List submodule files
         run: |
-          ls -la -R
+          ls -la submodules
