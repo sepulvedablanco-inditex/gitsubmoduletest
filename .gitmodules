@@ -1,4 +1,0 @@
-[submodule "jq"]
-	path = submodules
-	url = https://github.com/jqlang/jq
-	branch = master
